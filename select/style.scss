@@ -1,14 +1,88 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Roboto:ital@0;1&display=swap');
 
-body{
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
     font-family: "Roboto", sans-serif;
-    font-optical-sizing: auto;
-    font-weight: 400;
-    font-style: normal;
-    font-variation-settings:"wdth" 100; 
 }
 
+
+
+body{
+   background: blue;
+   padding: 0 20px;  
+}
+.wrapper{
+max-width: 450px;
+margin: 150px auto;
+}
+.wrapper .search__input{
+position: relative;
+background: white;
+width: 100%;
+border-radius: 5px;
+box-shadow: 0px 1px 5px 3px rgba(0,0,0.12);
+}
+.search__input input{
+   
+    height: 55px;
+    width: 100%;
+    outline: none;
+    border: none;
+    border-radius: 5px;
+    padding: 0 60px 0 20px;
+    font-size: 18px; 
+    box-shadow: 0px 1px 5px  rgba(0,0,0,0.1);
+}
+.search__input .icon{
+height: 55px;
+width: 55px;
+line-height: 55px;
+position: absolute;
+top: 0;
+right: 0;
+text-align:center ;
+font-size: 20px;
+color: aqua;
+cursor:pointer ;
+}
+.search__input .autocam__box{
+padding: 0;
+max-height: 280px;
+overflow-y: auto;
+opacity: 0;
+pointer-events: none;
+}
+.search__input.activ .autocam__box{
+padding: 10px 8px;
+opacity: 1;
+pointer-events: auto;
+}
+.search__input.activ .autocam__box li{
+   display: block; 
+}
+
+
+.autocam__box li{
+    display: none;
+    list-style: none;
+    padding: 8px 12px;
+    width: 100%;
+    cursor: default;
+    border-radius: 3px;
+
+ &:hover{
+    background: rgb(7, 202, 192);
+ }   
+}
+
+
+
+
+
+/*
 .app {
 padding-top: 5rem;
 display: flex;
@@ -90,4 +164,4 @@ $height : 46px;
 
 }
 
-}
+}*/

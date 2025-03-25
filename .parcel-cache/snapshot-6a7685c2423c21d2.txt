@@ -1,4 +1,4 @@
-4380
+4382
 56D:\git\js\work2\node_modules\domutils\lib\esm\index.d.ts133868670148350479 0
 89D:\git\js\work2\node_modules\htmlnano\docs\versioned_docs\version-1.1.1\060-contribute.md133868670151021191 0
 61D:\git\js\work2\node_modules\@swc\helpers\_\_class_call_check133868670162782506 1
@@ -20,7 +20,7 @@
 46D:\git\js\work2\node_modules\lmdb\dependencies133868670158097264 1
 37D:\git\js\work2\node_modules\escalade133868670129567439 1
 60D:\git\js\work2\node_modules\caniuse-lite\data\regions\MT.js133868670173594442 0
-20D:\git\js\work2\dist133871063088831605 1
+20D:\git\js\work2\dist133874081190047974 1
 70D:\git\js\work2\node_modules\entities\lib\generated\encode-html.js.map133868670145349876 0
 82D:\git\js\work2\node_modules\posthtml\node_modules\domutils\lib\stringify.d.ts.map133868670134333599 0
 64D:\git\js\work2\node_modules\lightningcss-win32-x64-msvc\LICENSE133868670115643700 0
@@ -28,7 +28,7 @@
 56D:\git\js\work2\node_modules\ordered-binary\package.json133868670130460491 0
 48D:\git\js\work2\node_modules\@swc\core\util.d.ts133868670131468598 0
 20D:\git\js\work2\icon133868666334354547 1
-26D:\git\js\work2\index.html133869710607276996 0
+26D:\git\js\work2\index.html133872158698422408 0
 48D:\git\js\work2\node_modules\weak-lru-cache\dist133868670115564110 1
 55D:\git\js\work2\node_modules\@parcel\feature-flags\test133868670117794116 1
 37D:\git\js\work2\node_modules\argparse133868670128827968 1
@@ -39,7 +39,7 @@
 41D:\git\js\work2\node_modules\browserslist133868670130614526 1
 61D:\git\js\work2\node_modules\@swc\helpers\cjs\_call_super.cjs133868670132456363 0
 54D:\git\js\work2\node_modules\sass\types\exception.d.ts133868670152917759 0
-24D:\git\js\work2\index.js133871063088092033 0
+24D:\git\js\work2\index.js133874080634726340 0
 45D:\git\js\work2\node_modules\lmdb\src\dbi.cpp133868670153560401 0
 57D:\git\js\work2\node_modules\posthtml-render\package.json133868670119302580 0
 38D:\git\js\work2\node_modules\callsites133868670121849428 1
@@ -119,7 +119,7 @@
 73D:\git\js\work2\node_modules\@parcel\reporter-dev-server\src\HMRServer.js133868670123260161 0
 58D:\git\js\work2\node_modules\@parcel\markdown-ansi\LICENSE133868670116009410 0
 103D:\git\js\work2\node_modules\posthtml\node_modules\dom-serializer\node_modules\entities\lib\decode.d.ts133868670134698511 0
-33D:\git\js\work2\select\style.scss133868901512329898 0
+33D:\git\js\work2\select\style.scss133874081184271285 0
 54D:\git\js\work2\node_modules\utility-types\SECURITY.md133868670133156425 0
 87D:\git\js\work2\node_modules\@parcel\runtime-service-worker\lib\ServiceWorkerRuntime.js133868670118173488 0
 77D:\git\js\work2\node_modules\lmdb\node_modules\node-addon-api\tools\README.md133868670139056750 0
@@ -823,7 +823,7 @@
 67D:\git\js\work2\node_modules\htmlparser2\lib\esm\Tokenizer.d.ts.map133868670138270982 0
 63D:\git\js\work2\node_modules\@parcel\runtime-service-worker\src133868670119521269 1
 53D:\git\js\work2\node_modules\tslib\modules\index.d.ts133868670130948531 0
-53D:\git\js\work2\dist\fontawesome-webfont.986a4266.eot133871060521653223 0
+53D:\git\js\work2\dist\fontawesome-webfont.986a4266.eot133874081189898063 0
 51D:\git\js\work2\node_modules\tslib\modules\index.js133868670119302580 0
 41D:\git\js\work2\node_modules\js-yaml\dist133868670143012743 1
 55D:\git\js\work2\node_modules\tslib\modules\package.json133868670125179605 0
@@ -1770,7 +1770,7 @@
 63D:\git\js\work2\node_modules\@parcel\core\src\resolveOptions.js133868670158233504 0
 48D:\git\js\work2\node_modules\lmdb\dist\index.cjs133868670153052421 0
 62D:\git\js\work2\node_modules\caniuse-lite\data\features\wav.js133868670180876591 0
-38D:\git\js\work2\dist\index.3d214d75.js133871063088561762 0
+38D:\git\js\work2\dist\index.3d214d75.js133874081189828108 0
 52D:\git\js\work2\node_modules\lmdb\dist\index.cjs.map133868670159562916 0
 58D:\git\js\work2\node_modules\entities\lib\esm\index.js.map133868670147616349 0
 50D:\git\js\work2\node_modules\lmdb\dependencies\lz4133868670132759470 1
@@ -2367,7 +2367,7 @@
 66D:\git\js\work2\node_modules\electron-to-chromium\full-versions.js133868670122164762 0
 68D:\git\js\work2\node_modules\electron-to-chromium\full-versions.json133868670130086049 0
 58D:\git\js\work2\node_modules\electron-to-chromium\index.js133868670123618874 0
-31D:\git\js\work2\dist\index.html133871060521543284 0
+31D:\git\js\work2\dist\index.html133874081189828108 0
 61D:\git\js\work2\node_modules\electron-to-chromium\versions.js133868670126311832 0
 68D:\git\js\work2\node_modules\caniuse-lite\data\features\clipboard.js133868670154927696 0
 69D:\git\js\work2\node_modules\caniuse-lite\data\features\array-find.js133868670142031831 0
@@ -3408,7 +3408,7 @@
 69D:\git\js\work2\node_modules\@swc\helpers\_\_ts_decorate\package.json133868670167452483 0
 70D:\git\js\work2\node_modules\@swc\helpers\_\_to_primitive\package.json133868670167294106 0
 77D:\git\js\work2\node_modules\@swc\helpers\_\_to_consumable_array\package.json133868670167254135 0
-39D:\git\js\work2\dist\index.c41b5a0e.css133871060521603256 0
+39D:\git\js\work2\dist\index.c41b5a0e.css133874081189838100 0
 87D:\git\js\work2\node_modules\@swc\helpers\_\_tagged_template_literal_loose\package.json133868670166990177 0
 81D:\git\js\work2\node_modules\@swc\helpers\_\_tagged_template_literal\package.json133868670167071958 0
 73D:\git\js\work2\node_modules\@swc\helpers\_\_super_prop_base\package.json133868670166920497 0
@@ -3819,7 +3819,7 @@
 46D:\git\js\work2\node_modules\@parcel\utils\src133868670151997996 1
 47D:\git\js\work2\node_modules\@parcel\utils\test133868670152100752 1
 62D:\git\js\work2\node_modules\@parcel\utils\test\config.test.js133868670132600399 0
-39D:\git\js\work2\dist\index.bbcf86d6.css133871060521623240 0
+39D:\git\js\work2\dist\index.bbcf86d6.css133874081189868090 0
 53D:\git\js\work2\node_modules\@parcel\utils\test\input133868670147364394 1
 68D:\git\js\work2\node_modules\@parcel\utils\test\prettifyTime.test.js133868670149717094 0
 79D:\git\js\work2\node_modules\@parcel\utils\test\replaceBundleReferences.test.js133868670150774823 0
@@ -3865,7 +3865,7 @@
 80D:\git\js\work2\node_modules\@parcel\types-internal\lib\DependencySpecifier.d.ts133868670135226651 0
 75D:\git\js\work2\node_modules\.bin\node-gyp-build-optional-packages-test.cmd133868670183921512 0
 69D:\git\js\work2\node_modules\@parcel\types-internal\lib\FilePath.d.ts133868670137801375 0
-53D:\git\js\work2\dist\fontawesome-webfont.67f40aee.ttf133871060521703200 0
+53D:\git\js\work2\dist\fontawesome-webfont.67f40aee.ttf133874081189908058 0
 65D:\git\js\work2\node_modules\@parcel\types-internal\lib\Glob.d.ts133868670138830290 0
 116D:\git\js\work2\node_modules\@parcel\core\test\fixtures\plugins\node_modules\parcel-transformer-bad-engines\index.js133868670152787002 0
 66D:\git\js\work2\node_modules\@parcel\types-internal\lib\index.d.ts133868670139663333 0
@@ -4368,14 +4368,16 @@
 65D:\git\js\work2\icon\font-awesome\fonts\fontawesome-webfont.woff2131743840740000000 0
 54D:\git\js\work2\icon\font-awesome\css\font-awesome.css131743840780000000 0
 58D:\git\js\work2\icon\font-awesome\css\font-awesome.min.css131743840780000000 0
-55D:\git\js\work2\dist\fontawesome-webfont.0ff89a79.woff2133871060521633234 0
-54D:\git\js\work2\dist\fontawesome-webfont.1e2ee054.woff133871060521643228 0
-53D:\git\js\work2\dist\fontawesome-webfont.abaa31c0.svg133871060521543284 0
-53D:\git\js\work2\dist\fontawesome-webfont.c1462043.eot133871060521643228 0
-42D:\git\js\work2\dist\index.3d214d75.js.map133871063088801629 0
+55D:\git\js\work2\dist\fontawesome-webfont.0ff89a79.woff2133874081189878082 0
+54D:\git\js\work2\dist\fontawesome-webfont.1e2ee054.woff133874081189888074 0
+53D:\git\js\work2\dist\fontawesome-webfont.abaa31c0.svg133874081189838100 0
+53D:\git\js\work2\dist\fontawesome-webfont.c1462043.eot133874081189898063 0
+42D:\git\js\work2\dist\index.3d214d75.js.map133874081189978021 0
 42D:\git\js\work2\dist\index.55464e82.js.map133868928890550591 0
-43D:\git\js\work2\dist\index.bbcf86d6.css.map133871060521933065 0
+43D:\git\js\work2\dist\index.bbcf86d6.css.map133874081189988010 0
 50D:\git\js\work2\dist\index.bbcf86d6.css.map.124.1h133868921556897430 0
 52D:\git\js\work2\dist\index.bbcf86d6.css.map.14800.12133868685585570939 0
+51D:\git\js\work2\dist\index.bbcf86d6.css.map.16912.g133872074838890041 0
 51D:\git\js\work2\dist\index.bbcf86d6.css.map.1776.ee133868915052277542 0
-43D:\git\js\work2\dist\index.c41b5a0e.css.map133871060521873092 0
+43D:\git\js\work2\dist\index.c41b5a0e.css.map133874081189978021 0
+51D:\git\js\work2\dist\index.c41b5a0e.css.map.16912.h133872074838890041 0

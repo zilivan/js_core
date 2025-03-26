@@ -1,1 +1,0 @@
-{"mappings":"AACA,SAAS,YAAY,OAAO;IACxB;IACA,OAAQ;AAEZ","sources":["onclick.js"],"sourcesContent":["\r\nfunction onclick__li(element){\r\n    click()\r\n    return (element)\r\n    \r\n}"],"names":[],"version":3,"file":"index.55464e82.js.map","sourceRoot":"/__parcel_source_root/"}

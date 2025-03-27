@@ -7,7 +7,7 @@ const inputBox = wrapper.querySelector('input')
 const suggBox = wrapper.querySelector('.autocam__box')
 const wrapperBox = document.querySelector('.wrapper__box')
 
-const debounceInputBox = debounce(onClickSearch,1000)
+const debounceInputBox = debounce(onClickSearch,300)
 
 
 renderBox(listsInputs)
@@ -49,8 +49,7 @@ function renderBox (listsInput) {
          renderBox(listsInputs)  
     }
     }
-}
-  
+}  
 
 function renderSuggBox (emptyArray,err,arrayData) {
     emptyArray = emptyArray.map((data)=>{
@@ -87,38 +86,35 @@ function renderSuggBox (emptyArray,err,arrayData) {
     };
 }
 
-async function onClickSearch (userData,stop = false) {
+ async  function onClickSearch (userData,stop = false) {
     if (stop) return
     lists = []
-    let err
-    let query = userData
-    //console.log(query) 
-    try{ 
-        let response = await fetch(`https://api.github.com/search/repositories?q=${query}`)
-        let data = await response.json()
-        //console.log(data)
-        let arrayData = []
-        
-          for(i = 0;  i <= 4; i++ ){
+    let arrayData =  []
+    let err, data
+    //console.log(userData)
+    try{
+       let response = await fetch(`https://api.github.com/search/repositories?q=${userData}`)
+         data = await response.json()
+            if (data !== undefined) {
+              for (i = 0;  i <= 4; i++ ){
             arrayData.push(data.items[i])
             lists.push(arrayData[i].full_name)
-           }
-           err = false
-           return renderSuggBox (lists,err,arrayData)
-
-    }catch(err) {
-        //console.log(err.message) 
-        lists = ["ERROR : ",err.message]
-        err = true
-        return renderSuggBox (lists,err)
-    }
-}
+                }
+                 err = false
+                 return renderSuggBox (lists,err,arrayData)
+                }
+        }catch(e){
+            let f = "Page no found"
+           lists = ["ERROR : ",f]
+          err = true
+        return renderSuggBox (lists,err,arrayData)
+      }
+      }
 
 function showLists(list){
     let listData;
     if (!list.length){
-        listData = `<li>${inputBox.value}</li>`
-          
+        listData = `<li>${inputBox.value}</li>`    
     }else{
         listData = list.join('') 
     }
